@@ -13,3 +13,7 @@ Answer: Merging does not change existing branches.  Rebasing moves an entire bra
 
 Reference: https://www.atlassian.com/git/tutorials/merging-vs-rebasing 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Getting a better grasp on data science tools.  As a life science major, I'm super out of my element, but it's nice getting to genuinely learn so much new stuff.
+
