@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare.  Data from patients is stored and retrieved in health databases, so healthcare professionals can reference the data and make informed clinical decisions.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging does not change existing branches.  Rebasing moves an entire branch into the main branch, integrating all of the commits--giving you a cleaner project history.
+
+Reference: https://www.atlassian.com/git/tutorials/merging-vs-rebasing 
+
